@@ -46,7 +46,7 @@ Integrated multiple vendor APIs, payment gateways, and telco services
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=labibmasud251&show_icons=true&theme=dark" alt="GitHub Stats" />
 </p>
 🤝 Connect with Me
 <p align="center">
